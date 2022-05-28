@@ -3,9 +3,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TDriverFlutterSDK'
-  s.version          = '1.0.0'
-  s.summary          = 'TDriverFlutterSDK'
+  s.name             = 'XLGTDriverFlutter'
+  s.version          = '1.0.3'
+  s.summary          = 'XLGTDriverFlutter'
   s.description      = <<-DESC
 试驾Flutter SDK(试驾小助APP iOS端)
                        DESC
